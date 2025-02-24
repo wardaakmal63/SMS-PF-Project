@@ -21,9 +21,7 @@ The program allows users to **add, search, display, and delete student records**
 ## 📂 Project Structure
 📦 Student-Management-System ┣ 📜 students.txt (Data file for storage) ┣ 📜 main.cpp (Contains the main logic and functions) ┣ 📜 header.h (Header file with structure and function prototypes) ┗ 📜 README.md (Project Documentation)
 
-bash
-Copy
-Edit
+
 
 ## 🚀 How to Run the Project
 1️⃣ **Clone the repository**  
@@ -34,9 +32,7 @@ Edit
 4️⃣ Follow the on-screen menu to add, search, display, or delete students.
 
 📜 Sample Output
-yaml
-Copy
-Edit
+
 Student Management System
 1. Add Student
 2. Display All Students
@@ -56,9 +52,10 @@ Contact (10-digit number): 03012345678
 Address: XYZ Street
 
 Student added successfully!
-🤝 Contributing
+ ```
+## 🤝 Contributing
 Feel free to fork this repository, create new features, or optimize the code! If you find any issues, open an issue in the GitHub repository. Contributions are welcome! 🚀
 
-📬 Contact
-If you have any queries or suggestions, feel free to reach out to me on LinkedIn: Your LinkedIn Profile
+## 📬 Contact
+If you have any queries or suggestions, feel free to reach out to me on LinkedIn: **Your LinkedIn Profile**
 
