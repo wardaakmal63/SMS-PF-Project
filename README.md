@@ -25,14 +25,13 @@ The program allows users to **add, search, display, and delete student records**
 
 ## 🚀 How to Run the Project
 1️⃣ **Clone the repository**  
-   ```bash
    git clone https://github.com/yourusername/repository-name.git
-2️⃣ Open the project in your preferred C++ compiler.
-3️⃣ Compile and Run the main.cpp file.
-4️⃣ Follow the on-screen menu to add, search, display, or delete students.
+2️⃣ **Open the project in your preferred C++ compiler.**
+3️⃣ **Compile and Run the main.cpp file.**
+4️⃣ **Follow the on-screen menu to add, search, display, or delete students.**
 
-📜 Sample Output
-
+## 📜 Sample Output
+ ```bash
 Student Management System
 1. Add Student
 2. Display All Students
