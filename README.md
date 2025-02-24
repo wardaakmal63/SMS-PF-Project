@@ -52,9 +52,7 @@ Address: XYZ Street
 
 Student added successfully!
  ```
-## 🤝 Contributing
-Feel free to fork this repository, create new features, or optimize the code! If you find any issues, open an issue in the GitHub repository. Contributions are welcome! 🚀
 
 ## 📬 Contact
-If you have any queries or suggestions, feel free to reach out to me on LinkedIn: **Your LinkedIn Profile**
+If you have any queries or suggestions, feel free to reach out to me on LinkedIn: **www.linkedin.com/in/warda-akmal-a01a75323**
 
